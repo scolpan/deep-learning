@@ -1,4 +1,4 @@
-# deep-learning-homework
+# deep-learning
 
 ### Q: Which model has a lower loss?
 #### A: The one that uses only closing prices.
